@@ -1,5 +1,9 @@
 <div align="center">
 
+<img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f2f701.gif" width="100%" alt="banner" />
+
+<br/><br/>
+
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=3000&pause=800&color=00F0FF&center=true&vCenter=true&width=700&lines=SYSTEM+ONLINE...;INITIALIZING+ROUSHAN.EXE;MERN+STACK+DEVELOPER;BCA+STUDENT+%7C+BUILDER+%7C+LEARNER" alt="Typing SVG" />
 
 <br/>
@@ -26,7 +30,12 @@
 
 <table align="center">
 <tr>
-<td valign="top" width="50%">
+<td align="center" valign="middle" width="25%">
+
+<img src="https://github.com/roushan27.png" width="160" style="border-radius:50%; border:3px solid #00F0FF;" alt="Roushan" />
+
+</td>
+<td valign="top" width="35%">
 
 **► Currently Building**
 Real-world MERN stack projects
@@ -41,7 +50,7 @@ Collaboration on open-source & full-stack projects
 I like clean code and cleaner GitHub profiles ⚡
 
 </td>
-<td valign="top" width="50%">
+<td valign="top" width="40%">
 
 ```javascript
 const roushan = {
@@ -101,15 +110,15 @@ const roushan = {
 
 <div align="center">
 
-<a href="https://github.com/roushan27/REPO_NAME_1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=roushan27&repo=REPO_NAME_1&theme=dark&border_color=00F0FF&bg_color=0D1117&title_color=00F0FF&icon_color=00F0FF" />
+<a href="https://github.com/roushan27/tic-tac-toe">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=roushan27&repo=tic-tac-toe&theme=dark&border_color=00F0FF&bg_color=0D1117&title_color=00F0FF&icon_color=00F0FF" />
 </a>
-<a href="https://github.com/roushan27/REPO_NAME_2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=roushan27&repo=REPO_NAME_2&theme=dark&border_color=00F0FF&bg_color=0D1117&title_color=00F0FF&icon_color=00F0FF" />
+<a href="https://github.com/roushan27/Room_Finder">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=roushan27&repo=Room_Finder&theme=dark&border_color=00F0FF&bg_color=0D1117&title_color=00F0FF&icon_color=00F0FF" />
 </a>
 <br/>
-<a href="https://github.com/roushan27/REPO_NAME_3">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=roushan27&repo=REPO_NAME_3&theme=dark&border_color=00F0FF&bg_color=0D1117&title_color=00F0FF&icon_color=00F0FF" />
+<a href="https://github.com/roushan27/Delivery-App">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=roushan27&repo=Delivery-App&theme=dark&border_color=00F0FF&bg_color=0D1117&title_color=00F0FF&icon_color=00F0FF" />
 </a>
 
 </div>
