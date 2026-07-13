@@ -134,7 +134,7 @@ class Roushan:
 
 **► [tic-tac-toe](https://github.com/roushan27/tic-tac-toe)** — Classic 2-player tic-tac-toe game built with JavaScript.
 
-**► [roomfinder](https://github.com/roushan27/roomfinder)** — A platform to help users search and find rooms/accommodation.
+**► [roomfinder](https://github.com/roushan27/Room_Finder)** — A platform to help users search and find rooms/accommodation.
 
 <br/>
 
