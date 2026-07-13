@@ -117,8 +117,8 @@ const roushan = {
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=roushan27&repo=Room_Finder&theme=dark&border_color=00F0FF&bg_color=0D1117&title_color=00F0FF&icon_color=00F0FF" />
 </a>
 <br/>
-<a href="https://github.com/roushan27/Delivery-App">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=roushan27&repo=Delivery-App&theme=dark&border_color=00F0FF&bg_color=0D1117&title_color=00F0FF&icon_color=00F0FF" />
+<a href="https://github.com/roushan27/rentwear">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=roushan27&repo=rentwear &theme=dark&border_color=00F0FF&bg_color=0D1117&title_color=00F0FF&icon_color=00F0FF" />
 </a>
 
 </div>
