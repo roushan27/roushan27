@@ -52,14 +52,19 @@ I like clean code and cleaner GitHub profiles ⚡
 </td>
 <td valign="top" width="40%">
 
-```javascript
-const roushan = {
-  role: "MERN Stack Developer",
-  education: "BCA Student",
-  stack: ["JavaScript", "React", "Node.js", "MongoDB"],
-  currentFocus: "Building scalable web apps",
-  motto: () => "Code. Break. Fix. Repeat."
-};
+```python
+class Roushan:
+    def __init__(self):
+        self.alias = "roushan27"
+        self.role = "MERN Stack Developer"
+        self.education = "BCA Student"
+        self.stack = ["JavaScript", "React", "Node.js", "MongoDB"]
+
+    def current_mission(self):
+        return "Building real-world full-stack web apps"
+
+    def status(self):
+        return "Actively learning | Open to collaboration"
 ```
 
 </td>
@@ -110,18 +115,26 @@ const roushan = {
 
 <div align="center">
 
+<a href="https://github.com/roushan27/rentwear">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=roushan27&repo=rentwear&theme=dark&border_color=00F0FF&bg_color=0D1117&title_color=00F0FF&icon_color=00F0FF" />
+</a>
 <a href="https://github.com/roushan27/tic-tac-toe">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=roushan27&repo=tic-tac-toe&theme=dark&border_color=00F0FF&bg_color=0D1117&title_color=00F0FF&icon_color=00F0FF" />
 </a>
-<a href="https://github.com/roushan27/Room_Finder">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=roushan27&repo=Room_Finder&theme=dark&border_color=00F0FF&bg_color=0D1117&title_color=00F0FF&icon_color=00F0FF" />
-</a>
 <br/>
-<a href="https://github.com/roushan27/rentwear">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=roushan27&repo=rentwear &theme=dark&border_color=00F0FF&bg_color=0D1117&title_color=00F0FF&icon_color=00F0FF" />
+<a href="https://github.com/roushan27/roomfinder">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=roushan27&repo=roomfinder&theme=dark&border_color=00F0FF&bg_color=0D1117&title_color=00F0FF&icon_color=00F0FF" />
 </a>
 
 </div>
+
+<br/>
+
+**► [rentwear](https://github.com/roushan27/rentwear)** — A rental/e-commerce style web app for renting clothing items online.
+
+**► [tic-tac-toe](https://github.com/roushan27/tic-tac-toe)** — Classic 2-player tic-tac-toe game built with JavaScript.
+
+**► [roomfinder](https://github.com/roushan27/roomfinder)** — A platform to help users search and find rooms/accommodation.
 
 <br/>
 
